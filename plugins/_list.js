@@ -6,11 +6,11 @@ WhatsAsena - Yusuf Usta
 */
 const ss = (`Have a Nice Day 💖
 
-Thank You For using Alpha  💕
+Thank You For using Kena  💕
 *WhatsAlexa, Made By Subadra Poshitha*`);
 const ll =(`
 *◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*
-  *⦁◊═⦁ Alpha Bot ⦁═◊⦁*
+  *⦁◊═⦁ kena Bot ⦁═◊⦁*
 *◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*
 
 *◆ BOT INFO ◆*
