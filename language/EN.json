@@ -5,28 +5,28 @@
     "AUTHOR": "AsenaDev",
     "STRINGS": {
         "_help": {
-            "COMMAND": "Alpha Cmd",
+            "COMMAND": "Kena Cmd",
             "DESC": "Des",
             "EXAMPLE": "Eg",
             "NOT_FOUND": "*I couldnt find a command like this*",
             "WARN": "Warn"
         },
         "_list": {
-            "COMMAND": "Alpha Cmd",
+            "COMMAND": "Kena Cmd",
             "DESC": "Des",
             "EXAMPLE": "Eg",
             "NOT_FOUND": "*I couldnt find a command like this*",
             "WARN": "Warn"
         },
         "_menu": {
-            "COMMAND": "Alpha Cmd",
+            "COMMAND": "Kena Cmd",
             "DESC": "Des",
             "EXAMPLE": "Eg",
             "NOT_FOUND": "*I couldnt find a command like this*",
             "WARN": "Warn"
         },
-        "_alpha": {
-            "COMMAND": "Alpha Cmd",
+        "_kena": {
+            "COMMAND": "Kena Cmd",
             "DESC": "Des",
             "EXAMPLE": "Eg",
             "NOT_FOUND": "*I couldnt find a command like this*",
@@ -96,9 +96,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Alpha 🌀",
+            "RESTART_DESC": "Restart Kena 🌀",
             "RESTART_MSG": "```Restarting ...```",
-            "SHUTDOWN_DESC": "Shutdown Alpha",
+            "SHUTDOWN_DESC": "Shutdown Kena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
