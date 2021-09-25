@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/SubadraBro/KENA /root/KENA
+RUN git clone https: //github.com/SubadraBro/KENA /root/KENA
 WORKDIR /root/KENA/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
