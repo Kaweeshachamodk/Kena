@@ -1,9 +1,9 @@
 {
-    "name": "Alpha_V1",
-    "description": "Alpha is a whats app user bot by alpha sir, modified version of asena",
+    "name": "KENA",
+    "description": "Kena is a whats app user bot by Subadra, modified version of asena",
     "logo": "https://telegra.ph/file/a85a4f4e1c06196f702db.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/SubadraBro/Alpha_V1",
+    "repository": "https://github.com/SubadraBro/KENA",
     "website":   "https://t.me/SubadraPoshitha",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
