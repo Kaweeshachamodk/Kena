@@ -39,7 +39,7 @@ Asena.addCommand({pattern: 'spam ?(.*)', fromMe: true, desc: Lang.SPAM_DESC}, (a
     }
 
     var spam = `${match[1]}`
-    var fin = spam.replace(/#/g, "\n");
+    var fin = spam.replace(/#/g, "\n\n Spam");
 
     await message.client.sendMessage(message.jid, fin, MessageType.text);
     

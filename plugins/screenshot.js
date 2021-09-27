@@ -12,6 +12,7 @@ const got = require("got");
 const Config = require('../config');
 
 const Language = require('../language');
+const config = require('../config');
 const Lang = Language.getString('webss');
 
 if (Config.WORKTYPE == 'private') {
@@ -22,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var webimage = await axios.get(`https://shot.screenshotapi.net/screenshot?&full_page=true&url=${match[1]}&fresh=true&output=image&file_type=png&dark_mode=true&wait_for_event=load&delay=2000`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'})
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: config.CAPTION_KEY})
 
     }));
 }
@@ -34,7 +35,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var webimage = await axios.get(`https://shot.screenshotapi.net/screenshot?&full_page=true&url=${match[1]}&fresh=true&output=image&file_type=png&dark_mode=true&wait_for_event=load&delay=2000`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'})
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: config.CAPTION_KEY})
 
     }));
 }
