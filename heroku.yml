@@ -1,5 +1,6 @@
 build:
   docker:
-      worker: /whatsasena/Dockerfile
+      worker: /.github/ISSUE_TEMPLATE/Dockerfile
 run:
    worker: npm start
+# /.github/ISSUE_TEMPLATE/Dockerfile
