@@ -1,14 +1,14 @@
 {
     "name": "KENA",
-    "description": "Kena is a whats app user bot by Subadra, modified version of asena",
+    "description": "Kena is a whats app user bot by Virus fucker, modified version of asena",
     "logo": "https://cdn.vox-cdn.com/thumbor/sVUbPcVezpe4qYWOYFbcmyVgPOQ=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22866101/93yEAh6Q.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/SubadraBro/KENA",
-    "website":   "https://t.me/SubadraPoshitha",
+    "repository": "https://github.com/Kaweeshachamodk/Kena",
+    "website":   "https://t.me/Kaweeshachamodk",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "STEFANIE_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
