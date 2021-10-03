@@ -4,7 +4,7 @@
 [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
 
 <div align="center">
-  <img src="https://telegra.ph/file/378f2e42f4ba64c1097bc.jpg" width="400" height="400">
+  <img src="https://telegra.ph/file/378f2e42f4ba64c1097bc.jpg" width="400" height="200">
   <h1>Stefanie (VIP)</h1>
   
 
@@ -20,7 +20,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Stefanie Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xmain12/365)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Kena)
 
 
 ## > [Sinhala Youtube Tutorial](https://youtu.be/sEtocRRzTno)
