@@ -18,7 +18,7 @@ const iii = "```YOU MUST ENTER EMOJI!``` \n\n alpha"
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'emoj ?(.*)', fromMe: true, desc: "converts emoji to png" } , (async (message, match) => {
+    Asena.addCommand({pattern: 'emo ?(.*)', fromMe: true, desc: "converts emoji to png" } , (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(iii);
 
@@ -30,7 +30,7 @@ if (Config.WORKTYPE == 'private') {
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: 'emoj ?(.*)', fromMe: false, desc: "converts emoji to png" }, (async (message, match) => {
+    Asena.addCommand({pattern: 'emo ?(.*)', fromMe: false, desc: "converts emoji to png" }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(iii);
 
