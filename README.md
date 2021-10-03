@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://telegra.ph/file/378f2e42f4ba64c1097bc.jpg" width="400" height="700">
-  <h1>Stefanie (VIP)</h1>
+  <h1>KENA (VIP)</h1>
   
 
 
