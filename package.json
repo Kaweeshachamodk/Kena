@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SubadraBro/KENA.git"
+    "url": "git+https://github.com/Kaweeshachamodk/Kena.git"
   },
   "keywords": [
     "whatsapp",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/phaticusthiccy/KENA/issues"
   },
-  "homepage": "https://github.com/SubadraBro/KENA#readme",
+  "homepage": "https://github.com/Kaweeshachamodk/Kena/KENA#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
