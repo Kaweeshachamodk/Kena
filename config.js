@@ -24,7 +24,7 @@ module.exports = {
     XRUN: "xteam",
     ZRUN: "zenzapi",
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.ASENA_SESSION === undefined ? '' : process.env.ASENA_SESSION,
+    STEFANIE_SESSION: process.env.STEFANIE_SESSION === undefined ? '' : process.env.STEFANIE_SESSION,
     CAPTION_KEY: process.env.CP === undefined ?'🌹 *KENA BOT* 🌹' : process.env.CP,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
