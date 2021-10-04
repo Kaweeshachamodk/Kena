@@ -4,7 +4,7 @@
 [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
 
 <div align="center">
-  <img src="https://telegra.ph/file/378f2e42f4ba64c1097bc.jpg" width="400" height="700">
+  <img src="https://telegra.ph/file/378f2e42f4ba64c1097bc.jpg" width="200" height="500">
   <h1>KENA (VIP)</h1>
   
 
