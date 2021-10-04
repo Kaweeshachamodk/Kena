@@ -14,10 +14,10 @@
 #### You can easily get the QR code Repl.it .. Click the button below
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Kaweeshachamodk/STEFANIE-BETA-NEW-2?v=1)
 
-`You need 2 mobile phones to build the Stefanie  bot!
+`You need 2 mobile phones to build the Kena bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Stefanie Bot.`
+From the first device you need to install Kena Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Kena)
